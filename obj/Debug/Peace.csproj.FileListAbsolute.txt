@@ -1,0 +1,14 @@
+C:\Users\Egor\source\repos\Peace\Peace\bin\Debug\Peace.exe.config
+C:\Users\Egor\source\repos\Peace\Peace\bin\Debug\Peace.exe
+C:\Users\Egor\source\repos\Peace\Peace\bin\Debug\Peace.pdb
+C:\Users\Egor\source\repos\Peace\Peace\obj\Debug\Peace.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Peace\Peace\obj\Debug\Peace.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Peace\Peace\obj\Debug\Peace.exe
+C:\Users\Egor\source\repos\Peace\Peace\obj\Debug\Peace.pdb
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\bin\Debug\Peace.exe.config
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\bin\Debug\Peace.exe
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\bin\Debug\Peace.pdb
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\obj\Debug\Peace.csproj.AssemblyReference.cache
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\obj\Debug\Peace.csproj.CoreCompileInputs.cache
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\obj\Debug\Peace.exe
+C:\Users\skylxrd\OneDrive\Рабочий стол\Peace\Peace\obj\Debug\Peace.pdb
