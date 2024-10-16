@@ -11,6 +11,7 @@ namespace Peace
     {
         static void Main(string[] args)
         {
+	    //f return amount of numbers in list in range from to
             int f(List<float> list,int from, int to) 
             {
                 int cnt = 0;
